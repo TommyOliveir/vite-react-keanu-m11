@@ -8,7 +8,7 @@ import { FaGithubSquare } from "react-icons/fa";
 
 function Footer() {
     return (
-        <div className='socials'>
+        <div className='socials container'>
             <ul className='socials-ul'>
                 <li>   <FaTwitterSquare /></li>
                 <li>   <FaFacebookSquare /></li>

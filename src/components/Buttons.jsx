@@ -8,7 +8,7 @@ import {
 
 function Buttons() {
     return (
-        <div className='btn'>
+        <div className='btn container'>
             <button className='btn-socials'><FaEnvelope/><span>Email</span></button>
             <button id="linkedin-btn" className='btn-socials '><FaLinkedin/><span>LinkedIn</span></button>
 
